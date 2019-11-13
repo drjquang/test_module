@@ -1,0 +1,4 @@
+R                 // <CR> is implicit, Reset controller 
+RD                // <CR> is implicit, Restore to factory default
+PN812             // <CR> is implicit, No parity, 8-bit, 1 stop bit and 9600 bps
+PN81              // <CR> is implicit, No parity, 8-bit, 1 stop bit and baudrate is inherited from previous settings
